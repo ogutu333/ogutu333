@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deborah Ogutu</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi,Kenya who's curious about new technologies and driven by ambition.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogutu333" alt="ogutu333" /></a> </p>
-
 - 🌱 I’m currently learning **Python, R**
 
 - 📫 How to reach me **ogutu333@gmail.com**
+
+- ⚡ Fun fact **Computer was a job title, and the first programmers were women.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
