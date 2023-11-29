@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deborah Ogutu</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi,Kenya who's curious about new technologies and driven by ambition.</h3>
 
-- 🌱 I’m currently learning **Python, R**
+- 🌱 I’m currently learning **JavaScript, R**
 
 - 📫 How to reach me **ogutu333@gmail.com**
 
