@@ -1,14 +1,14 @@
 <h1 align="centre">Heyy, I'm Deborah 👋🏽</h1>
-
+---
 <h3 align="centre">Cybersecurity | Security Operations | Penetration Testing | Python
 
-> **I don't want to be just another face in the crowd.**
+> I don't want to be just another face in the crowd.
 >
 > I'm here to learn, build, break things, understand why they broke, and eventually become someone who can defend against the same attacks.
 
-I'm a cybersecurity professional in training with a growing focus on **Security Operations, Threat Detection, Incident Response, Network Security, and Penetration Testing**.
+🌱 I'm a cybersecurity professional in training with a growing focus on Security Operations, Threat Detection, Incident Response, Network Security, and Penetration Testing.
 
-I learn best by getting my hands dirty; whether that's attacking a vulnerable machine, investigating network traffic, configuring a SIEM, troubleshooting a broken lab, or writing a Python script to make a security task easier.
+📚 I learn best by getting my hands dirty; whether that's attacking a vulnerable machine, investigating network traffic, configuring a SIEM, troubleshooting a broken lab, or writing a Python script to make a security task easier.
 
 ---
 
