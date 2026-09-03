@@ -1,31 +1,70 @@
-<h1 align="centre">Heyy, I'm Deborah 👋🏽</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:00ff9c&text=HEY,%20I'M%20DEB&fontColor=00ff9c&fontSize=48&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SECURITY%20OPERATIONS%20%7C%20PENTESTING&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/ogutu333">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional+in+Training;Security+Operations+%7C+Threat+Detection;Incident+Response+%7C+Penetration+Testing;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Defending" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ogutu333&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
+
+</div>
+
 ---
-<h3 align="centre">Cybersecurity | Security Operations | Penetration Testing | Python
 
-> I don't want to be just another face in the crowd.
->
-> I'm here to learn, build, break things, understand why they broke, and eventually become someone who can defend against the same attacks.
+## `> whoami`
 
-🌱 I'm a cybersecurity professional in training with a growing focus on Security Operations, Threat Detection, Incident Response, Network Security, and Penetration Testing.
+```console
+┌──(deborah@cyberlab)-[~]
+└─$ cat about.txt
 
-📚 I learn best by getting my hands dirty; whether that's attacking a vulnerable machine, investigating network traffic, configuring a SIEM, troubleshooting a broken lab, or writing a Python script to make a security task easier.
+I don't want to be just another face in the crowd.
+
+I'm building practical cybersecurity skills through hands-on labs,
+real projects, experimentation, troubleshooting, and documentation.
+
+My interests:
+Security Operations • Threat Detection • Incident Response
+Network Security • Penetration Testing • Security Automation
+
+My approach:
+Learn → Build → Break → Understand → Defend
+```
+
+I learn best by getting my hands dirty; whether that's attacking a vulnerable machine, investigating network traffic, configuring a SIEM, troubleshooting a broken lab, or writing Python to solve a security problem.
 
 ---
 
-<h2 align="centre">My Cybersecurity Journey</h2>
+## `> skills`
 
-I didn't get into cybersecurity just because it was "the next big thing."
+### 🔴 Offensive Security
 
-I got interested in understanding **how systems work, how they can be broken, and how they can be protected.**
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9c"/>
 
-My journey has taken me through:
+### 🔵 Defensive Security
+
+<img src="https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Suricata-0d1117?style=for-the-badge&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Zeek-0d1117?style=for-the-badge&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logoColor=00ff9c"/>
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,github,docker,vscode" />
+
+---
+
+## `> current_mission`
 
 ```text
 Cybersecurity Foundations
         ↓
-Linux & Operating Systems
-        ↓
-Networking
+Linux & Networking
         ↓
 System Hardening
         ↓
@@ -33,274 +72,200 @@ Threat Intelligence
         ↓
 SIEM & Threat Hunting
         ↓
-Security Architecture
-        ↓
 Incident Response
         ↓
 Penetration Testing
         ↓
 Hands-on Labs & Projects
         ↓
-🎯 Building a career in Cybersecurity
+🎯 First Cybersecurity Opportunity
 ```
 
----
+Currently focusing on:
 
-<h2 align="centre">What I've Been Getting My Hands On</h2>
-
-### Offensive Security
-
-* Nmap
-* Metasploit
-* Network reconnaissance
-* Vulnerability enumeration
-* Exploitation
-* Web application security
-* DVWA
-* OWASP Juice Shop
-* VulnHub
-* TryHackMe
-* Metasploitable
-* Kioptrix
-
-### Defensive Security
-
-* Wazuh
-* Suricata
-* Zeek
-* SIEM concepts
-* Threat detection
-* Threat hunting
-* Incident response
-* Network monitoring
-* System hardening
-* Security architecture
-
-### Technical Skills
-
-* Linux
-* Windows
-* Python
-* JavaScript
-* SQL
-* Git & GitHub
-* Docker
-* VirtualBox
-* Networking
-* Bash
+**Security Operations • Threat Detection • Incident Response
+Threat Hunting • Network Security • Penetration Testing • Python**
 
 ---
 
-## My Cybersecurity Toolkit
+## `> featured_work`
 
-```text
-                    🛡️ SECURITY
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       🔴 OFFENSE      🔵 DEFENSE     🐍 AUTOMATION
-          │              │              │
-       Nmap           Wazuh           Python
-       Metasploit     Suricata        Bash
-       Burp Suite     Zeek
-       Wireshark      SIEM
-          │              │
-          └──────────────┼──────────────┘
-                         │
-                    🐧 LINUX
-                         │
-                    🌐 NETWORKING
-```
+### Kioptrix Level 1
 
----
+Hands-on penetration testing lab covering:
 
-<h2 align="centre">⭐ Featured Work</h2>
+`Recon → Enumeration → Vulnerability Identification → Exploitation → Documentation`
 
-## Kioptrix Level 1
+**Tools:** Nmap • Metasploit • Linux • Networking
 
-A hands-on penetration testing lab where I worked through the process of:
+### Home SOC
 
-**Reconnaissance → Enumeration → Vulnerability Identification → Exploitation → Privilege Access → Documentation**
+Building a personal SOC environment using:
 
-The lab helped me understand how individual vulnerabilities can be chained together to gain access to a vulnerable system.
+`Wazuh • Suricata • Zeek • Ubuntu • Kali • Docker`
 
----
+Focused on log analysis, network monitoring, threat detection, and incident investigation.
 
-## Home SOC
-
-Building a personal SOC environment to gain practical experience with:
-
-* Wazuh
-* Suricata
-* Zeek
-* Ubuntu
-* Kali Linux
-* Docker
-* Network monitoring
-* Log analysis
-* Threat detection
-
-The goal is to understand the **defender's side of cybersecurity**, not just the attacker's.
-
----
-
-## Python Security Projects
+### Python Security Projects
 
 Using Python to turn cybersecurity concepts into practical tools.
 
-Projects include work around:
+Areas include:
 
-* Reconnaissance
-* OSINT
-* Security automation
-* Network analysis
-* Malware analysis
-* Forensics
-* Password security
+`OSINT • Reconnaissance • Automation • Forensics • Malware Analysis • Network Analysis`
 
 ---
 
-<h2 align="centre">Lab Log</h2>
+## `> lab_log`
 
-I believe that **doing the work is more valuable than just saying I know the theory.**
-
-| Lab / Project           | Focus                    | Status      |
-| ----------------------- | ------------------------ | ----------- |
-| Kioptrix Level 1        | Penetration Testing      | ✅ Complete  |
-| Metasploitable          | Vulnerability Assessment | ✅ Complete  |
-| DVWA                    | Web Security             | ✅ Complete  |
-| OWASP Juice Shop        | Web Security             | ✅ Complete  |
-| Nmap Labs               | Network Reconnaissance   | ✅ Complete  |
-| Home SOC                | SIEM & Detection         | 🔄 Building |
-| Wireshark Labs          | Network Analysis         | 🔄 Learning |
-| Python Security Toolkit | Security Automation      | 🔄 Building |
+| Lab / Project              | Focus                    | Status      |
+| -------------------------- | ------------------------ | ----------- |
+|    Kioptrix Level 1        | Penetration Testing      | ✅ Complete  |
+|    Metasploitable          | Vulnerability Assessment | ✅ Complete  |
+|    DVWA                    | Web Security             | ✅ Complete  |
+|    OWASP Juice Shop        | Web Security             | ✅ Complete |
+|    Nmap Labs               | Network Recon            | ✅ Complete  |
+|    Home SOC                | SIEM & Detection         | 🔄 Building |
+|    Wireshark Labs          | Network Analysis         | 🔄 Learning |
+|    Python Security Toolkit | Automation               | 🔄 Building |
 
 ---
 
-## How I Learn
+## `> troubleshooting.log`
 
-My learning process is pretty simple:
+```console
+┌──(deborah@cyberlab)-[~/lessons]
+└─$ cat troubleshooting.log
 
-```text
-       Learn the concept
-              ↓
-       Build the lab
-              ↓
-        Investigate
-              ↓
-       Break something
-              ↓
-       Figure out why
-              ↓
-           Fix it
-              ↓
-         Document it
-              ↓
-         Do it again
+"The exploit is broken."
+→ It was the network.
+
+"The tool isn't working."
+→ Configuration issue.
+
+"Why isn't my session connecting?"
+→ Check the interface.
+→ Check the IP.
+→ Check the route.
+→ Check the listener.
+
+"This should be easy."
+→ It wasn't.
+
+LESSON:
+Don't blame the tool before checking your setup.
 ```
 
-Because sometimes the error message teaches you more than the tutorial does.
+> I'm learning not to immediately assume that the tool, exploit, or script is broken; sometimes I'm the vulnerability😭
 
 ---
 
-## Things I've Broken While Learning
-
-> **"It's probably the exploit."**
-
-It was the network.
-
-> **"The tool isn't working."**
-
-The configuration was wrong.
-
-> **"Why isn't my session connecting?"**
-
-Networking. Again.
-
-> **"This should be easy."**
-
-It wasn't.
-
-### The lesson?
-
-Troubleshooting is part of cybersecurity.
-
-I'm learning not to immediately assume that the tool, exploit, or script is broken; sometimes I'm the vulnerability😭
-
----
-
-# 🎯 What I'm Working Toward
-
-My current goal is to turn my hands-on learning into my **first cybersecurity opportunity**.
-
-I'm particularly interested in roles around:
+## `> 2026_goals`
 
 ```text
-SOC Analyst
-    ↓
-Security Operations
-    ↓
-Threat Detection
-    ↓
-Incident Response
-    ↓
-Threat Hunting
-    ↓
-Security Engineering
+[✓] Build cybersecurity foundations
+[✓] Complete penetration testing labs
+[✓] Practice network reconnaissance
+[✓] Work with vulnerable machines
+[✓] Start documenting projects
+[✓] Start building a Home SOC
+
+[ ] Strengthen Python for cybersecurity
+[ ] Complete more SOC & threat-hunting labs
+[ ] Prepare for CompTIA Security+
+[ ] Publish more technical write-ups
+[ ] Build a stronger cybersecurity portfolio
+[ ] Land my first cybersecurity role
 ```
 
-I'm especially interested in opportunities where I can continue learning while working with real systems, real alerts, and real security problems.
+---
+
+# `> github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ogutu333&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogutu333&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="170"/>
+
+</div>
 
 ---
 
-<h2 align="centre">📈2026 Goals</h2>
+# `> contribution_graph`
 
-* [x] Build a foundation in cybersecurity
-* [x] Start documenting cybersecurity projects
-* [x] Complete penetration testing labs
-* [x] Work with vulnerable machines
-* [x] Practice network reconnaissance
-* [x] Work with Linux and Windows security
-* [x] Start building a home SOC
-* [ ] Complete more SOC and threat-hunting labs
-* [ ] Strengthen Python for cybersecurity
-* [ ] Prepare for CompTIA Security+
-* [ ] Build a stronger cybersecurity portfolio
-* [ ] Publish more technical write-ups
-* [ ] Land my first cybersecurity role
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ogutu333&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
-# A Few Things About Me
+# `> contribution_snake`
 
-* I learn better by **doing** than by just watching.
-* I actually enjoy troubleshooting when I finally figure out what went wrong.
-* I like understanding **why** something works, not just memorizing commands.
-* I'm interested in both **offensive and defensive security**.
-* I believe good cybersecurity professionals should understand how attackers think.
-* I'm building my portfolio one lab, project, and write-up at a time.
-* I'm not trying to know everything. I'm trying to **do better than yesterday**.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ogutu333/ogutu333/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## `> philosophy`
 
-I'm always interested in connecting with people in cybersecurity, technology, and other areas where I can learn, collaborate, and grow.
+<div align="center">
 
-**LinkedIn:** <a href="linkedin.com/in/deborah-ogutu-2b0282257">
-**GitHub:** You're already here 😄
+```text
+       LEARN
+         ↓
+       BUILD
+         ↓
+       BREAK
+         ↓
+     UNDERSTAND
+         ↓
+       DEFEND
+```
+
+### I don't want to just say I know cybersecurity.
+
+### I want my GitHub to show what I can do.
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Building skills. One lab at a time.</b>
-</p>
+## `> connect`
 
-<p align="center">
-  <i>"Don't just learn cybersecurity. Get your hands on it."</i>
-</p>
+<div align="center">
 
+<a href="linkedin.com/in/deborah-ogutu-2b0282257">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogutu333&show_icons=true&locale=en&layout=compact" alt="ogutu333" /></p>
+<a href="https://github.com/ogutu333">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+Building skills. One lab at a time.
+
+Still learning.
+Still building.
+Still breaking things.
+Still getting better.
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00ff9c,50:161b22,100:0d1117" width="100%"/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogutu333&" alt="ogutu333" /></p>
