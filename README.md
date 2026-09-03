@@ -180,16 +180,6 @@ Don't blame the tool before checking your setup.
 
 ---
 
-# `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ogutu333&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ## `> contribution_matrix`
 
 <p align="center">
