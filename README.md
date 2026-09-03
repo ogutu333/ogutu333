@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Deborah Ogutu</h1>
-<h3 align="center">A passionate Software Engineer from Nairobi,Kenya who's curious about new technologies and driven by ambition.</h3>
+<h1 align="center">Heyy 👋, I'm Deborah Ogutu</h1>
 
-- 🌱 I’m currently learning Cybersecurity
+- I'm passionate about technology and cybersecurity, with a growing focus on building practical skills in Security Operations, Threat Detection, Incident Response and Penetration Testing. I love learning through hands-on labs and real projects and I'm focused on turning that experience into a career. I'm always looking to learn, challenge myself and grow as a Cybersecurity Professional.
+
+<h4 align="center">The fear of being just another face in the crowd drives everything I do. It’s the force behind my determination to push boundaries, take risks, and make sure that what I create or achieve is truly unforgettable.</h4>
 
 - 📫 How to reach me **ogutu333@gmail.com**
 
