@@ -180,18 +180,6 @@ Don't blame the tool before checking your setup.
 
 ---
 
-# `> github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ogutu333&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogutu333&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="170"/>
-
-</div>
-
----
-
 # `> contribution_graph`
 
 <div align="center">
@@ -202,13 +190,29 @@ Don't blame the tool before checking your setup.
 
 ---
 
-# `> contribution_snake`
+## `> contribution_matrix`
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/ogutu333/ogutu333/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ogutu333/ogutu333/output/github-contribution-grid-snake-dark.svg"
+  />
 
-</div>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ogutu333/ogutu333/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ogutu333/ogutu333/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</p>
 
 ---
 
