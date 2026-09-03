@@ -214,6 +214,10 @@ Don't blame the tool before checking your setup.
 
 </p>
 
+## `> streak stats`
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogutu333&" alt="ogutu333" /></p>
+
 ---
 
 ## `> philosophy`
@@ -270,6 +274,3 @@ Still getting better.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00ff9c,50:161b22,100:0d1117" width="100%"/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogutu333&" alt="ogutu333" /></p>
