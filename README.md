@@ -153,7 +153,7 @@ Areas include:
 → It wasn't.
 
 LESSON:
-Don't blame the tool before checking your setup.
+Don't blame the tool before checking the setup.
 ```
 
 > I'm learning not to immediately assume that the tool, exploit, or script is broken; sometimes I'm the vulnerability😭
