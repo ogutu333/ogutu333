@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:00ff9c&text=HEY,%20I'M%20DEBORAH&fontColor=00ff9c&fontSize=48&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SECURITY%20OPERATIONS%20%7C%20PENTESTING&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:00ff9c&text=HEY,%20I'M%20DEBORAH👋🏾&fontColor=00ff9c&fontSize=48&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SECURITY%20OPERATIONS%20%7C%20PENTESTING&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/ogutu333">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional+in+Training;Security+Operations+%7C+Threat+Detection;Incident+Response+%7C+Penetration+Testing;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Defending" />
