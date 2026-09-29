@@ -196,17 +196,4 @@ Don't blame the tool before checking the setup.
 
 <br>
 
-<div align="center">
-
-```text
-Building skills. One lab at a time.
-
-Still learning.
-Still building.
-Still breaking things.
-Still getting better.
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00ff9c,50:161b22,100:0d1117" width="100%"/>
