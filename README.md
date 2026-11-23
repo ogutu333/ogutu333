@@ -88,49 +88,6 @@ Threat Hunting • Network Security • Penetration Testing • Python**
 
 ---
 
-## `> featured_work`
-
-### Kioptrix Level 1
-
-Hands-on penetration testing lab covering:
-
-`Recon → Enumeration → Vulnerability Identification → Exploitation → Documentation`
-
-**Tools:** Nmap • Metasploit • Linux • Networking
-
-### Home SOC
-
-Building a personal SOC environment using:
-
-`Wazuh • Suricata • Zeek • Ubuntu • Kali • Docker`
-
-Focused on log analysis, network monitoring, threat detection, and incident investigation.
-
-### Python Security Projects
-
-Using Python to turn cybersecurity concepts into practical tools.
-
-Areas include:
-
-`OSINT • Reconnaissance • Automation • Forensics • Malware Analysis • Network Analysis`
-
----
-
-## `> lab_log`
-
-| Lab / Project              | Focus                    | Status      |
-| -------------------------- | ------------------------ | ----------- |
-|    Kioptrix Level 1        | Penetration Testing      | ✅ Complete  |
-|    Metasploitable          | Vulnerability Assessment | ✅ Complete  |
-|    DVWA                    | Web Security             | ✅ Complete  |
-|    OWASP Juice Shop        | Web Security             | ✅ Complete |
-|    Nmap Labs               | Network Recon            | ✅ Complete  |
-|    Home SOC                | SIEM & Detection         | 🔄 Building |
-|    Wireshark Labs          | Network Analysis         | 🔄 Learning |
-|    Python Security Toolkit | Automation               | 🔄 Building |
-
----
-
 ## `> troubleshooting.log`
 
 ```console
@@ -157,26 +114,6 @@ Don't blame the tool before checking the setup.
 ```
 
 > I'm learning not to immediately assume that the tool, exploit, or script is broken; sometimes I'm the vulnerability😭
-
----
-
-## `> 2026_goals`
-
-```text
-[✓] Build cybersecurity foundations
-[✓] Complete penetration testing labs
-[✓] Practice network reconnaissance
-[✓] Work with vulnerable machines
-[✓] Start documenting projects
-[✓] Start building a Home SOC
-
-[ ] Strengthen Python for cybersecurity
-[ ] Complete more SOC & threat-hunting labs
-[ ] Prepare for CompTIA Security+
-[ ] Publish more technical write-ups
-[ ] Build a stronger cybersecurity portfolio
-[ ] Land my first cybersecurity role
-```
 
 ---
 
